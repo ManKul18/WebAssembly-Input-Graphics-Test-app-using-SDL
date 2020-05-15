@@ -4,7 +4,7 @@ This app could be launched using a web server as it is meant for typical WebAsse
 
     0 Copy the complete app directory to web server root
 
-    1 On TV launch the browser app and point to the app served by web server and click on the index.html
+    1 Launch the web browser and point to the app served by web server and click on the index.html
 
 
 If everything went well, you should see as below
